@@ -10,6 +10,8 @@ namespace test1git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asd");
+            Console.Read();
         }
     }
 }
